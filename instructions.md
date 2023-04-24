@@ -95,3 +95,5 @@ div ~ div {
   color: rgb(90, 90, 90);
 }
 ```
+
+![Little Lemon Menu](little-lemon-menu.png)
